@@ -163,7 +163,7 @@ img {
   text-align: center;
 }
 .secion-portfolio {
-  padding: 120px 120px;
+  padding: 120px 0 120px 0;
 }
 .projects-list {
   display: flex;

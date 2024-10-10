@@ -139,7 +139,7 @@ img {
   margin-right: 24px;
   flex-basis: calc((100% - 3 * 24px) / 4);
 }
-.princopal-card:last-child {
+.principal-card:last-child {
   margin-right: 0;
 }
 .section-team {
